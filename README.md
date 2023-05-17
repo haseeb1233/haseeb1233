@@ -1,4 +1,8 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Abdul Haseeb T k </h1>
+<br/>
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Nodejs+Back+end+Developer;Web+Developer;Quick+learner&color=cyan&center=true" />
+</div>
 🌱 I’m currently learning  Node,express,mongoDB<br>💬 Ask me about   Html,Css,Javascript,Express,MongoDB<br>📫 How to reach me  haseebshs@gmail.com<br>👨‍💻 All of my projects are available at   https://haseeb1233.github.io/
 
 
